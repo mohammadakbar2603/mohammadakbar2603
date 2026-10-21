@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Mohammad Akbar Bin Shah, PhD student in computer vision">
+  <rect width="1200" height="240" rx="14" fill="#F2F5F4"/>
+  <g stroke="#DCE4E1" stroke-width="1" fill="none">
+    <path d="M760 40 H1160 M760 80 H1160 M760 120 H1160 M760 160 H1160 M760 200 H1160"/>
+    <path d="M800 24 V216 M880 24 V216 M960 24 V216 M1040 24 V216 M1120 24 V216"/>
+  </g>
+  <g fill="none" stroke="#1E6B59" stroke-width="2.5">
+    <rect x="868" y="62" width="140" height="112" rx="6"/>
+    <path d="M868 62 h22 M868 62 v18 M1008 174 h-22 M1008 174 v-18" stroke-width="5"/>
+  </g>
+  <circle cx="938" cy="118" r="5" fill="#1E6B59"/>
+  <text x="878" y="54" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#1E6B59">tracking · frame 1,762</text>
+  <text x="56" y="104" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#14201C">Mohammad Akbar Bin Shah</text>
+  <text x="58" y="146" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#4F5E59">PhD student in Computer Science · Kansas State University</text>
+  <text x="58" y="184" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#1E6B59">Computer vision for bedside infant monitoring</text>
+</svg>
