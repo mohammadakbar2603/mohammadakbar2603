@@ -11,7 +11,7 @@
   <a href="mailto:mohammad.akbar2603@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-B4612C?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-PhD student in Computer Science at **Kansas State University**, in the **ML&DS Lab**. My research focuses on computer vision for healthcare.
+PhD student in Computer Science at **Kansas State University**, in the **ML&DS Lab**. My research is in machine learning and deep learning, including computer vision, domain adaptation and federated learning.
 
 ### Selected repositories
 
